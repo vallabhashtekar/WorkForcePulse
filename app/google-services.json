@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1023259689660",
+    "project_id": "workforcepulse",
+    "storage_bucket": "workforcepulse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023259689660:android:15f2035c4cf9cb4d0d86b9",
+        "android_client_info": {
+          "package_name": "com.example.workforcepulse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzmF7xZRFRyTc5lgTHXShpRZeBoIPNt9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
